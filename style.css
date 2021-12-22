@@ -1,0 +1,25 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: "chalkboard";
+}
+.h{
+    width: 100%;
+
+}
+.h .b{
+   float: right;
+   margin-top: 15px;
+   font-size: 20px;
+}
+.h .a{
+    float: left;
+}
+.footer{
+    bottom: 0;
+    width: 100%;
+   
+}
+.modal-dialog{
+    width: 90%;
+}
